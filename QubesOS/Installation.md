@@ -1,6 +1,8 @@
-**Version:** Qubes OS 4.0.1
-**Installation performed in:** May 2019
-**Installation medium:** USB drive with 8 GB of storage
+- **Version:** Qubes OS 4.0.1
+
+- **Installation performed in:** May 2019
+
+- **Installation medium:** USB drive with 8 GB of storage
 
 ## Issues
 
