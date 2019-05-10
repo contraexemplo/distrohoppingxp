@@ -29,3 +29,9 @@ The installation cannot continue and the system will be rebooted
 Press ENTER to continue
   ```
 Pressing `ENTER` will trigger a `Pane is dead` message.
+
+#### Solution
+
+**Spoiler:** Unsurprisingly, it seems like `nouveau` was the one triggering this issue. All actions described below happened on Legacy mode.
+
+Press `TAB` with the option `Install QubesOS 4.0.1` highlighted. This will give you access to all kernal parameters that option will initialize with. Add the parameter `nouveau.modeset=0` just before `initrd.img`.
