@@ -18,5 +18,5 @@ As I tested a few Linux distributions, including Arch Linux (including Manjaro a
 
 As I prepared myself to permanently switch to [Qubes OS](https://www.qubes-os.org/) (and to document properly all the trouble I'll go through with my little buddy as current documentation is already deprecated), I thought, "There must be someone out there stumbling upon the same issues I encountered during my distrohopping times with this laptop, and they must be cursing the entire internet for not finding someone else with the same problems."
 
-I figured it would be useful to write a couple of reports about my own experiences, and share it with anyone that may have something to add... Thus, this repository was born. ✨ Enjoy!
+I figured it would be useful to write a couple of reports about my own experiences and share it with anyone that may have something to add... Thus, this repository was born. ✨ Enjoy!
 
